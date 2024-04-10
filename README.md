@@ -24,7 +24,7 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left">
 <a href="https://linkedin.com/in/aditya-kumar-272878220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-kumar-272878220" height="30" width="40" /></a>
 <a href="https://instagram.com/delta_iit93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="delta_iit93" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@themitianadi9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@themitianadi9" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@themitianadi9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@themitianadi9" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/adityakumar9358" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adityakumar9358" height="30" width="40" /></a>
 </p>
 
