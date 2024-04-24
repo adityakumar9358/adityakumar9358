@@ -9,7 +9,7 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [JANANI](https://github.com/adityakumar9358/TaayiMagu)
-- 
+
 - 🌱 I’m currently learning **IOS DEVLOPMENT**
 
 - 👯 I’m looking to collaborate on **...**
@@ -19,7 +19,7 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 💬 Ask me about **Android , Mern , Ios**
 
 - 📫 How to reach me **adityakumar9358@gmail.com**
-- - - 👨🏻‍💻 Visit my personal Portfolio website [https://adityakrpandeyportfoli.netlify.app)
+-  👨🏻‍💻 Visit my personal Portfolio website [https://adityakrpandeyportfoli.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
